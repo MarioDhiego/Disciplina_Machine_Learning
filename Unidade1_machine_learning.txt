@@ -4,7 +4,6 @@ Prof: Jefferson Morais
 Aluno: Mário Diego
 #=================================#
 
-
 #=================================#
      - Componente -  
 Atividades Práticas 20%
@@ -13,13 +12,18 @@ Seminários          20%
 Projeto Final       30%
 #=================================#
 
-
-#=================================#
+#==================================================================#
 Unidade 1 - Fundamentos de Dados
 
+AM -> unduzem um afunção ou hipótese capaz de resolver o problema de 
+exemplos (instancias) do problema a ser resolvivo.
 
-#=================================#
+* Todo projeto de machine Learning é um Projeto de Ciências de Dados, 
+mas não ao Contrário.
+
+Transfomer -> 
 
 
+#==================================================================#
 
 
