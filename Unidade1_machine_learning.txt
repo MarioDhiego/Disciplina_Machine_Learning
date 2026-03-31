@@ -57,9 +57,9 @@ Divisão do ML -
 2) Não Supervisionado -> (Descritivo) -> objeto (sem entrada)
 3) Semi-Supervisionado
 4) Por Reforço
-
-* Aprendizado on-line
-* Aprendizado em batch
+5) Aprendizado on-line  (incremental)
+6) Aprendizado em batch (por ciclo)
+   *Demanda tempo e recursos computacionais
 
 * Supervisionado
 1) Classificação
@@ -74,10 +74,17 @@ Divisão do ML -
 6) Floresta Aleatória
 
 # - Algoritmo Supervisionado - #
-1) K-means
-2) DBSCAN
-3) PCA
-4) Análise Fatorial
+
+1) Agrupamento
+2) Detecção de outliers
+3) Redução da Dimensionalidade
+4) Apredizagem por Regras de Associação
+
+a) K-means
+b) HCA
+c) DBSCAN
+d) PCA
+e) Análise Fatorial
 
 #==================================================================#
 
