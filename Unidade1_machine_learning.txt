@@ -1,29 +1,106 @@
-#=================================#
+#==================================================================#
 Disciplina: Machine Learning
 Prof: Jefferson Morais
 Aluno: Mário Diego
-#=================================#
+#==================================================================#
 
-#=================================#
+#==================================================================#
      - Componente -  
 Atividades Práticas 20%
 Laboratórios        30%
 Seminários          20%
 Projeto Final       30%
-#=================================#
+#==================================================================#
 
 #==================================================================#
-Unidade 1 - Fundamentos de Dados
+                Unidade 1 - Fundamentos de Dados -
+#------------------------------------------------------------------#
 
-AM -> unduzem um afunção ou hipótese capaz de resolver o problema de 
+* AM -> induzem um afunção ou hipótese capaz de resolver o problema de 
 exemplos (instancias) do problema a ser resolvivo.
 
 * Todo projeto de machine Learning é um Projeto de Ciências de Dados, 
 mas não ao Contrário.
+* Time Line -> 1940 a 2010
 
-Transfomer -> 
+# - Tipos de Algoritmos -
+
+1) KNN
+2) Regressão Linear
+3) Regressão Logística
+4) Regressão Ridge
+5) Regressão Lasso
+6) K-Means
+7) Arvode de Decisão
+8) Floresta Aleatória
+9) Redes Neurais
+#==================================================================#
+
+#==================================================================#
+                                  Unidade 2 -
+#------------------------------------------------------------------#
+
+Inferência Indutiva-> processo de derivar conclusões a partir do 
+conhecimeno e de evidências disponíveis.
+
+* Inferencia indutiva: base do Machine Learning
+* Faz um raciocinio do geral para o particular
+* Amostra suficientemente grande   
+* Lidar com Dados Complexos
+* Adptar-se a Mudanças
+* Escalabilidade
+* Generalização
+
+Divisão do ML -
+
+1) Supervisionado     -> (Preditivo)  -> objeto (entrada,saida)
+2) Não Supervisionado -> (Descritivo) -> objeto (sem entrada)
+3) Semi-Supervisionado
+4) Por Reforço
+
+* Aprendizado on-line
+* Aprendizado em batch
+
+* Supervisionado
+1) Classificação
+2) Regressão
+
+# - Algoritmo Supervisionado - #
+1) KNN 
+2) Regressão Linear
+3) Regressão Logística
+4) SVM
+5) Arvode de Decisão
+6) Floresta Aleatória
+
+# - Algoritmo Supervisionado - #
+1) K-means
+2) DBSCAN
+3) PCA
+4) Análise Fatorial
+
+#==================================================================#
+
+
+
+
+
 
 
 #==================================================================#
+                                 Unidade 3 -
+#------------------------------------------------------------------#
+
+
+
+
+
+#==================================================================#
+
+
+
+
+
+
 
 
